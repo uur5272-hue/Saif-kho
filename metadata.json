@@ -1,0 +1,6 @@
+{
+  "name": "MOTO AI",
+  "description": "Futuristic AI Assistant with voice controls, smart device actions, Gemini intelligence, and creative studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
